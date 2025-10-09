@@ -53,6 +53,8 @@ Wiebke Arlt – w.arlt@lms.mrc.ac.uk
 Michael Biehl – m.biehl@rug.nl
  – University of Groningen, Netherlands
 
-License: MRC LMS
+MIT License
+
+Copyright (c) 2025 Medical Research Council Laboratory of Medical Sciences (MRC LMS)
 
 
