@@ -1,6 +1,6 @@
-# Ordinal Generalized Matrix Learning Vector Quantization (O-GMLVQ) MATLAB Package
+# Ordinal Generalized Matrix Learning Vector Quantization (ORGMLVQ) MATLAB Package
 
-**Ordinal Generalized Matrix Learning Vector Quantization (O-GMLVQ)** is a MATLAB implementation of a prototype-based supervised learning algorithm designed for both **ordinal** and **non-ordinal classification tasks**. This package enables researchers and practitioners to leverage advanced metric learning for improved predictive performance on structured datasets.
+**Ordinal Generalized Matrix Learning Vector Quantization (ORGMLVQ)** is a MATLAB implementation of a prototype-based supervised learning algorithm designed for both **ordinal** and **non-ordinal classification tasks**. This package enables researchers and practitioners to leverage advanced metric learning for improved predictive performance on structured datasets.
 
 ## Key Features
 - Fully implemented **ordinal GMLVQ algorithm**.
