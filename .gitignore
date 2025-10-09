@@ -1,0 +1,12 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.fig
+*.slx
+*.mdl
+*.autosave
+.DS_Store
+.idea/
+.vscode/
+*.mat
