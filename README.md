@@ -12,13 +12,6 @@
 ## Implementation Note
 This package is based on the original **GMLVQ MATLAB toolbox (v3.1)** by Veen et al., 2021. The ORGMLVQ extension is implemented by modifying the training routine (`doBatchStep.m`, lines 46–50) to incorporate an ordinal regularization term. All other components remain consistent with the original GMLVQ toolbox.  
 
-## Installation
-Clone the repository and add it to your MATLAB path:
-
-```bash
-git clone https://github.com/CS-AI-LA/ORGMLVQ.git
-addpath(genpath('ORGMLVQ'))
-
 ## References
 - Abdi, L., Prete, A., Arlt, W., & Biehl, M. (2025). *Leveraging Ordinal Generalized Matrix Learning Vector Quantization for Improved Classification*.  
 - Veen, R.J., Westerman, F., & Biehl, M. (2021). *A no-nonsense beginner's tool for GMLVQ*. [Link](https://www.cs.rug.nl/~biehl/gmlvq.html)  
@@ -28,3 +21,11 @@ addpath(genpath('ORGMLVQ'))
 - **Alessandro Prete** – [a.prete@bham.ac.uk](mailto:a.prete@bham.ac.uk) – University of Birmingham, UK  
 - **Wiebke Arlt** – [w.arlt@lms.mrc.ac.uk](mailto:w.arlt@lms.mrc.ac.uk) – Imperial College London, UK  
 - **Michael Biehl** – [m.biehl@rug.nl](mailto:m.biehl@rug.nl) – University of Groningen, Netherlands
+
+
+## Installation
+Clone the repository and add it to your MATLAB path:
+
+```bash
+git clone https://github.com/CS-AI-LA/ORGMLVQ.git
+addpath(genpath('ORGMLVQ'))
