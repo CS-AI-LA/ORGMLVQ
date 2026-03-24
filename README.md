@@ -18,3 +18,13 @@ Clone the repository and add it to your MATLAB path:
 ```bash
 git clone https://github.com/CS-AI-LA/ORGMLVQ.git
 addpath(genpath('ORGMLVQ'))
+
+## References
+- Abdi, L., Prete, A., Arlt, W., & Biehl, M. (2025). *Leveraging Ordinal Generalized Matrix Learning Vector Quantization for Improved Classification*.  
+- Veen, R.J., Westerman, F., & Biehl, M. (2021). *A no-nonsense beginner's tool for GMLVQ*. [Link](https://www.cs.rug.nl/~biehl/gmlvq.html)  
+
+## Authors
+- **Lida Abdi** – [l.abdi@imperial.ac.uk](mailto:l.abdi@imperial.ac.uk) – Imperial College London, UK  
+- **Alessandro Prete** – [a.prete@bham.ac.uk](mailto:a.prete@bham.ac.uk) – University of Birmingham, UK  
+- **Wiebke Arlt** – [w.arlt@lms.mrc.ac.uk](mailto:w.arlt@lms.mrc.ac.uk) – Imperial College London, UK  
+- **Michael Biehl** – [m.biehl@rug.nl](mailto:m.biehl@rug.nl) – University of Groningen, Netherlands
